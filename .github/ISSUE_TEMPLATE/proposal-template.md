@@ -3,7 +3,7 @@ name: Proposal Template
 about: Imporvement Proposals Template
 title: ''
 labels: ''
-assignees: ''
+assignees: yyh1102, SwJay
 
 ---
 
